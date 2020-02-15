@@ -16,7 +16,7 @@ DigiKeyboardを日本語環境（日本語キーボード（106/109キー）下�
    mv scancod-ascii-table_jp.h ~/.aruino15/packages/gidistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/
 ```
 
- ※Windows環境にも同様のライブラリが格納されたフォルダがあると思いますのでそこへ入れてください。
+ ※Windows環境にも同様のライブラリが格納されたフォルダがあると思いますのでそこへ入れてください。   
  　もしよろしければ、READMEに追記したいので情報をご教授ください！
 
 # Usage
