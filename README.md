@@ -2,7 +2,7 @@
 DigiKeyboardを日本語環境（日本語キーボード（106/109キー）下で記号（\ | . "  '等）を正しく出力するためのheaderファイルです。
 
 # Requiremnet
- - Arduino IDE
+ - [Arduino IDE](https://www.arduino.cc/en/main/software)
  - Digistump AVR Boards by Digistump 1.6.7（Arduino IDEでDigistump開発を行うためのドライバー）
 
 # Installation
