@@ -23,7 +23,7 @@ DigiKeyboardを日本語環境（日本語キーボード（106/109キー）下�
  スケッチソースで「DigiKeyboard.h」の代わりに「DigiKeyboard_jp.h」をインクルードする。
 
 # License
-  This source code is released under the GNU General Public License, see LICENSE.
+  This source code is released under the GNU General Public License, see LICENSE.<br>
   [digistump/DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration/tree/master/libraries/DigisparkKeyboard)で公開されているソースコードをもとに改変しているため、ライセンスについても参考もとに従う。
 
 # Authors
