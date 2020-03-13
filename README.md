@@ -6,7 +6,7 @@ We can input the identifier (\, | , " , ' etc) on Japanese environment by using 
 
 # Requiremnet
  - [Arduino IDE](https://www.arduino.cc/en/main/software)
- - Digistump AVR Boards by Digistump 1.6.7（Arduino IDEでDigistump開発を行うためのドライバー）
+ - Digistump AVR Boards by Digistump 1.6.7（Arduino IDEでDigistump開発を行うためのドライバー）   
                                            (The driver for developing Digistump on Arduino IDE)
 # Installation
  「DigiKeyboard_jp.h」と「scancode-ascii-table_jp.h」をArduinoにインストールしたDigistumpライブラリに追加する。
